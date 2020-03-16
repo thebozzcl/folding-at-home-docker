@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM nvidia/opencl
 
 ARG version="v7.5"
 
